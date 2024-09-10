@@ -1,0 +1,2 @@
+https://dev.to/damiisdandy/create-infinite-auto-scroll-animation-with-pure-css-2p6j
+https://verpex.com/blog/website-tips/how-to-create-a-css-only-infinite-scroll-animation
